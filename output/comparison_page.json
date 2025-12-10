@@ -1,0 +1,91 @@
+{
+  "page_type": "comparison",
+  "product_a": {
+    "name": "GlowBoost Vitamin C Serum",
+    "concentration": "10% Vitamin C",
+    "skin_types": [
+      "Oily",
+      "Combination"
+    ],
+    "ingredients": [
+      "Vitamin C",
+      "Hyaluronic Acid"
+    ],
+    "benefits": [
+      "Brightening",
+      "Fades dark spots"
+    ],
+    "usage": "Apply 2–3 drops in the morning before sunscreen",
+    "side_effects": "Mild tingling for sensitive skin",
+    "price": 699.0
+  },
+  "product_b": {
+    "name": "RadianceLift Serum",
+    "concentration": "12%",
+    "skin_types": [
+      "Combination",
+      "Normal"
+    ],
+    "ingredients": [
+      "Vitamin C",
+      "Hyaluronic Acid",
+      "Niacinamide"
+    ],
+    "benefits": [
+      "Brightening",
+      "Reduces fine lines",
+      "Fades dark spots"
+    ],
+    "usage": "Apply 2-3 drops in the morning and evening before moisturizer",
+    "side_effects": "Slight redness or tingling for sensitive skin",
+    "price": 899.0
+  },
+  "comparison_matrix": [
+    {
+      "dimension": "Price",
+      "product_a": "₹699.0",
+      "product_b": "₹899.0",
+      "difference": "₹200 (-22%)",
+      "winner": "product_b",
+      "verdict": "₹200 cheaper"
+    },
+    {
+      "dimension": "Concentration",
+      "product_a": "10% Vitamin C",
+      "product_b": "12%",
+      "winner": "contextual",
+      "verdict": "Compare based on your skin's needs"
+    },
+    {
+      "dimension": "Skin Type Coverage",
+      "product_a": "Combination, Oily",
+      "product_b": "Combination, Normal",
+      "winner": "tie",
+      "verdict": "Both suitable for 2 skin types"
+    },
+    {
+      "dimension": "Ingredients",
+      "product_a": "2 ingredients",
+      "product_b": "3 ingredients",
+      "common_ingredients": 2,
+      "winner": "contextual",
+      "verdict": "2 shared ingredients"
+    },
+    {
+      "dimension": "Benefits",
+      "product_a": "2 benefits",
+      "product_b": "3 benefits",
+      "winner": "product_b",
+      "verdict": "3 claimed benefits"
+    },
+    {
+      "dimension": "Safety",
+      "product_a": "Mild tingling for sensitive skin",
+      "product_b": "Slight redness or tingling for sensitive skin",
+      "winner": "product_a",
+      "verdict": "Milder side effect profile"
+    }
+  ],
+  "recommendation": "When comparing the GlowBoost Vitamin C Serum and the RadianceLift Serum, key differences include price, concentration, and targeted benefits. The GlowBoost Serum is priced at ₹699 with a 10% Vitamin C concentration, making it a more budget-friendly option for those with oily or combination skin primarily seeking to brighten their complexion and fade dark spots. In contrast, the RadianceLift Serum, priced at ₹899 with a 12% concentration, offers additional benefits such as reducing fine lines, making it suitable for individuals with combination or normal skin who are also concerned about signs of aging.\n\nFor those primarily focused on brightening and dark spot reduction without the need for anti-aging benefits, the GlowBoost Vitamin C Serum is a solid choice. Conversely, if you are looking for a serum that addresses multiple concerns, including fine lines and overall radiance, the RadianceLift Serum would be more appropriate. Both products are effective, and the choice ultimately depends on individual skin needs and budget considerations.",
+  "generated_at": "2025-12-10T07:03:42.373184"
+}

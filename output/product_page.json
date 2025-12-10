@@ -1,0 +1,153 @@
+{
+  "page_type": "product",
+  "product_name": "GlowBoost Vitamin C Serum",
+  "hero_section": {
+    "headline": "Illuminate Your Natural Radiance",
+    "tagline": "Experience the power of 10% Vitamin C for a brighter, more even complexion.",
+    "cta_text": "Unlock Your Glow"
+  },
+  "benefits_section": {
+    "title": "Key Benefits",
+    "benefits": [
+      {
+        "benefit": "benefit_1",
+        "description": "Experience radiant skin as our GlowBoost Vitamin C Serum harnesses the power of Vitamin C to illuminate your complexion and enhance your natural glow.",
+        "relevance": "High"
+      },
+      {
+        "benefit": "benefit_2",
+        "description": "Target and diminish dark spots with the potent combination of Vitamin C and Hyaluronic Acid, promoting an even skin tone that inspires confidence.",
+        "relevance": "High"
+      }
+    ],
+    "summary": "This product delivers 2 proven benefits for Oily, Combination skin."
+  },
+  "usage_section": {
+    "title": "How to Use",
+    "frequency": "Once daily (morning)",
+    "timing": "Morning",
+    "routine_position": "after cleansing, before sunscreen",
+    "application_amount": "2-3 drops",
+    "steps": [
+      {
+        "step": 1,
+        "action": "Cleanse",
+        "description": "Start with a clean face and neck. Pat dry completely."
+      },
+      {
+        "step": 2,
+        "action": "Apply Serum",
+        "description": "Dispense 2-3 drops onto fingertips and apply to face and neck."
+      },
+      {
+        "step": 3,
+        "action": "Massage",
+        "description": "Gently massage in upward, circular motions for 30 seconds."
+      },
+      {
+        "step": 4,
+        "action": "Wait",
+        "description": "Allow serum to absorb for 1-2 minutes before proceeding."
+      },
+      {
+        "step": 5,
+        "action": "Apply Sunscreen",
+        "description": "Always apply broad-spectrum SPF 30+ sunscreen as the final step."
+      }
+    ],
+    "tips": [
+      "Vitamin C works best on clean skin - apply to completely dry face",
+      "Store in a cool place to maintain stability and potency",
+      "Use lightweight moisturizer after application",
+      "Start with use 2-3 times per week to allow skin to adapt",
+      "Do patch test on inner arm first if this is your first time",
+      "Consistency is key - use daily for best results",
+      "Visible results typically appear within 2-4 weeks of regular use"
+    ],
+    "instructions": "Apply 2–3 drops in the morning before sunscreen"
+  },
+  "ingredients_section": {
+    "title": "Key Ingredients",
+    "ingredients": [
+      {
+        "ingredient": "Vitamin C",
+        "function": "Powerful antioxidant that brightens and protects skin",
+        "benefits": [
+          "Brightening",
+          "Antioxidant protection",
+          "Collagen synthesis"
+        ]
+      },
+      {
+        "ingredient": "Hyaluronic Acid",
+        "function": "Humectant that holds up to 1000x its weight in water",
+        "benefits": [
+          "Deep hydration",
+          "Plumping effect",
+          "Moisture retention"
+        ]
+      }
+    ],
+    "summary": "Formulated with 2 science-backed ingredients"
+  },
+  "safety_section": {
+    "title": "Safety & Side Effects",
+    "severity": "Mild",
+    "description": "Generally well-tolerated with minimal side effects",
+    "side_effects": [
+      {
+        "effect": "Tingling sensation",
+        "context": "Common with actives like Vitamin C, usually subsides after a few minutes"
+      }
+    ],
+    "precautions": [
+      "Always patch test on inner arm 24 hours before full application",
+      "Avoid contact with eyes - if contact occurs, rinse immediately with water",
+      "Start with 2-3 times per week if you have sensitive skin",
+      "Do not mix with vitamin B3 or niacinamide in the same routine",
+      "Avoid using with other exfoliating acids on the same day",
+      "Keep away from heat sources - store in cool place",
+      "Consult a dermatologist if you have specific skin conditions or concerns"
+    ],
+    "if_side_effects_occur": [
+      "Stop using the product immediately",
+      "Rinse face thoroughly with cool water",
+      "Apply a calming moisturizer to soothe skin",
+      "Consider reintroducing at lower frequency once skin has calmed"
+    ],
+    "suitable_for": [
+      "Oily skin",
+      "Combination skin",
+      "Adults 18+ years",
+      "Sensitive skin types (with patch test)"
+    ],
+    "not_suitable_for": [
+      "Pregnant or nursing women (consult doctor)",
+      "Children under 18 years",
+      "Those with severe skin sensitivity without prior testing",
+      "Those allergic to any ingredient (review full ingredient list)",
+      "Active skin infections or severe acne (consult dermatologist first)"
+    ],
+    "disclaimer": "This information is for educational purposes. Always patch test and consult a dermatologist if you have concerns."
+  },
+  "price_section": {
+    "title": "Pricing & Value",
+    "price": "₹699.0",
+    "price_numeric": 699.0,
+    "bottle_size_ml": 30,
+    "positioning": "Mid-Range",
+    "positioning_description": "Premium quality at accessible pricing",
+    "cost_per_ml": "₹23.30",
+    "cost_per_use": "₹2.91",
+    "estimated_days_supply": 240,
+    "value_highlights": [
+      "Less than ₹3 per application",
+      "Over 8 months supply with daily use",
+      "Effective 10% Vitamin C formulation",
+      "Contains premium, research-backed ingredients",
+      "Delivers 2 benefits in one product"
+    ],
+    "investment_statement": "An investment of just ₹3 per day for healthier, more radiant skin"
+  },
+  "generated_at": "2025-12-10T07:03:32.023368"
+}

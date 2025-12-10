@@ -1,0 +1,50 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "agentic-content-generation"
+version = "1.0.0"
+description = "Multi-agent content generation system using LangGraph, LangChain, and GPT-4o-mini"
+readme = "README.md"
+requires-python = ">=3.11"
+authors = [
+    {name = "Content Generation Team"}
+]
+license = {text = "MIT"}
+
+dependencies = [
+    "langchain==0.3.0",
+    "langgraph==0.2.45",
+    "langchain-openai==0.2.10",
+    "pydantic==2.10.3",
+    "python-dotenv==1.0.1",
+    "openai==1.57.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0",
+    "black>=23.0",
+    "ruff>=0.1.0",
+    "mypy>=1.0",
+]
+
+[project.urls]
+Homepage = "https://github.com/Gaurav-171/kasparro-agentic-gaurav-mishra.git"
+Repository = "https://github.com/Gaurav-171/kasparro-agentic-gaurav-mishra.git"
+
+[tool.black]
+line-length = 100
+target-version = ["py38", "py39", "py310", "py311"]
+
+[tool.ruff]
+line-length = 100
+select = ["E", "F", "W", "I"]
+target-version = "py38"
+
+[tool.mypy]
+python_version = "3.11"
+warn_return_any = true
+warn_unused_configs = true
+disallow_untyped_defs = false
